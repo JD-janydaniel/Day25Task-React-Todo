@@ -6,7 +6,7 @@ const App = () => {
   const [todo,setTodo]=useState([])
   const [status,setStatus]=useState('notcompleted')
   const [filter,setFilter]=useState('All')
-//filterTodo function is use to filter the Todo by its status
+//filterTodo function is use to filter the Todo by using its status
   const filterTodo=()=>{
     if(filter==='completedList'){
       return todo.filter((item)=>item.completed==='completed')
