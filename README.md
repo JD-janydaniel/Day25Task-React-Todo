@@ -3,7 +3,12 @@
 ## Introduction
 <ul>
 <li>In the Todo app we add a todos</li>
-<li>For adding the</li>
+<li>For adding the you have to fill the input fields and click the Add Todo button</li>
+<li>It will add the Todo and display it in the card</li>
+  <li>To edit the Todo you have to click the edit button in card in the prompt you can edit the title and description </li>
+  <li>To delete the Todo you have to click the delete botton in card</li>
+  <li>You can also mark Todo as Completed and Not Completer</li>
+  <li>You can filter the todo by selecting filter option</li>
 </ul>
 
 ## Task Description
